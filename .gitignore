@@ -1,2 +1,3 @@
 .trunk
 __pycache__
+.mypy_cache
