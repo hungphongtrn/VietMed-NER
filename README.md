@@ -1,7 +1,7 @@
-# ASR and NER Model Inference and Evaluation
+# Medical Spoken Named Entity Recognition
+> Please press ⭐ button and/or cite papers if you feel helpful.
 
-This repository contains scripts for automatic speech recognition (ASR) and named entity recognition (NER) using sequence-to-sequence (seq2seq) models and BERT-based models. The provided scripts cover model preparation, training, inference, and evaluation processes.
-
+This repository contains scripts for automatic speech recognition (ASR) and named entity recognition (NER) using sequence-to-sequence (seq2seq) models and BERT-based models. The provided scripts cover model preparation, training, inference, and evaluation processes, based on the dataset VietMed-NER.
 
 ## Table of Contents
 
